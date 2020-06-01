@@ -12,7 +12,12 @@ Needs
 
  - Arduino Software
 
-<img hight="200" width="190" src="https://cdn.hackaday.io/images/5546951468606577704.jpg" > 
+<img hight="200" width="190" src="https://cdn.hackaday.io/images/5546951468606577704.jpg" >
+
+lock_screen_bypass
+
+<img hight="200" width="190" src="https://www.winpasskey.com/wp-content/uploads/2018/07/command-prompt-after-sign-in-windows-10.jpg.webp" > 
+
 
 Video Demo
 
@@ -27,6 +32,7 @@ Video Demo
 </body> 
 </html>
  
+-------------------------------------------------------------
 
 Credits >
 Created by: Zhyar Muhamad
